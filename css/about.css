@@ -1,0 +1,67 @@
+#about {
+  padding: 20px 0;
+}
+
+#about .blok{
+    border: 1px solid #E6E6FA;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #E6E6FA;
+    margin: 0 150px;
+}
+#about .blok h4 {
+    color: #000000;
+    font-weight: bolder;
+    padding-top: 2px ;
+}
+#about .text {
+    padding: 20px;
+    margin: 30px 0;
+    border: 1px solid #3333;
+    border-radius: 6px;
+
+}
+
+#about .text p {
+    color: #000000;
+    font-weight: bold;
+    font-style: inherit;
+}
+
+#school {  
+    background-color: #3333;
+    width: 100%;
+    border-radius: 6px;
+}
+
+#school .items {
+    padding: 20px;
+    display: flex;
+    justify-items: center;
+    flex-direction: row;
+    height: 350px;
+}
+#school .items .item {
+    width: 33%;
+    text-align: left;
+}
+#school .items .item:hover {
+    color: #E6E6FA;
+}
+#school .items .item button {
+    padding: 6px;
+    border-radius: 6px;
+    border-style: hidden;
+    background-color: #3333;
+}
+#school .items .item button:hover{
+    background-color: #E6E6FA
+
+}
+ footer {
+    padding: 10px;
+    margin-top: 50% ;
+    margin-bottom: 0;
+    background-color: #3333;
+}
+

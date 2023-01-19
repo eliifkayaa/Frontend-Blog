@@ -1,0 +1,26 @@
+#home  {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+#home img {
+    border-radius: 100%;
+    padding: 5px;
+}
+
+#home p {
+    padding-top: 5px;
+    font-style: italic;
+    opacity: 0.7;
+    letter-spacing: 1px;
+}
+
+#text {
+    border: 1px solid #000000;
+    background-color: 	#E6E6FA;
+    border-radius: 10px;
+    margin: 0 80px;
+}

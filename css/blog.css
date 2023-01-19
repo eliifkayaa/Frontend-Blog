@@ -1,0 +1,25 @@
+#blog {
+    padding: 50px;
+}
+.items .item {
+    display: flex;
+    margin-bottom: 10px;
+    /* justify-items: center; */
+}
+
+
+.items .item .item-img {
+    padding: 10px;
+}
+
+.items .item .item-img img {
+    border-radius: 20px;
+}
+
+.items .item .text {
+    padding: 15px;
+    font-weight: bold;
+}
+
+
+
